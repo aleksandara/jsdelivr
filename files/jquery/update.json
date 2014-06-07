@@ -1,0 +1,7 @@
+{
+  "packageManager": "npm",
+  "name": "jquery",
+  "files": {
+    "basePath": "dist/cdn/"
+  }
+}

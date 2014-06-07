@@ -1,0 +1,9 @@
+{
+  "packageManager": "github",
+  "name": "zepto",
+  "repo": "madrobby/zepto",
+  "files": {
+    "basePath": "src",
+    "include": ["zepto.js"]
+  }
+}
