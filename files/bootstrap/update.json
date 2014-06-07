@@ -1,0 +1,9 @@
+{
+  "packageManager": "github",
+  "name": "bootstrap",
+  "repo": "twbs/bootstrap",
+  "files": {
+    "basePath": "dist/",
+    "exclude": ["css/bootstrap.css", "css/bootstrap.css.map", "css/bootstrap-theme.css", "css/bootstrap-theme.css.map", "js/bootstrap.js"]
+  }
+}
