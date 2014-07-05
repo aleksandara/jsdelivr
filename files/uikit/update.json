@@ -1,7 +1,7 @@
 {
   "packageManager": "github",
-  "name": "bootstrap",
-  "repo": "twbs/bootstrap",
+  "name": "uikit",
+  "repo": "uikit/uikit",
   "files": {
     "basePath": "dist/"
   }
