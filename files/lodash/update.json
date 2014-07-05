@@ -3,7 +3,5 @@
   "name": "lodash",
   "files": {
     "basePath": "dist/",
-    "include": ["**/*.js"],
-    "exclude": ["lodash.compat.js", "lodash.compat.min.js"]
   }
 }
